@@ -1,0 +1,673 @@
+{
+    "1":
+        {
+            "title": "Snow White and the Seven Dwarves",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/4/45/Snow_White_Poster.jpg",
+            "year": "1937",
+            "era": "Golden Age",
+            "length": "83 minutes",
+            "trailerLink": "https://youtu.be/5fzZFQBXSLM",
+            "trivia": "Snow White and the Seven Dwarves is the first feature-length animation by the Disney company, and the first animated feature in the United States.",
+            "category": "Princess"
+        },
+    "2":
+        {
+            "title": "Pinocchio",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/f/f0/PinocchioPoster.jpeg",
+            "year": "1940",
+            "era": "Golden Age",
+            "length": "88 minutes",
+            "trailerLink": "https://youtu.be/GBgyVY_ClzQ",
+            "trivia": "Pinocchio is Disney's second animate feature, and was deemed culturally significant by the Library of Congress in 1994.",
+            "category": "Musical"
+        },
+    "3":
+        {
+            "title": "Fantasia",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/1/12/Fantasia-poster-1940.jpg",
+            "year": "1940",
+            "era": "Golden Age",
+            "length": "124 minutes",
+            "trailerLink": "https://youtu.be/omwdODyz8vI",
+            "trivia": "Fantasia is a musical anthology with eight segments, each based on the musical works of Leopold Stokowski.",
+            "category": "Musical anthology"
+        },
+    "4":
+        {
+            "title": "Dumbo",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/a/a7/Dumbo-1941-poster.jpg",
+            "year": "1941",
+            "era": "Golden Age",
+            "length": "64 minutes",
+            "trailerLink": "https://youtu.be/tLtQ3bCvBA0",
+            "trivia": "Dumbo is a film based on a book written by Helen Aberson. It is one of the shortest Disney features.",
+            "category": "Fantasy"
+        },
+    "5":
+        {
+            "title": "Bambi",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/1/14/BambiPoster.jpeg",
+            "year": "1942",
+            "era": "Golden Age",
+            "length": "70 minutes",
+            "trailerLink": "https://youtu.be/nLvX-erABqY",
+            "trivia": "Bambi is a film based on an Austrian book and was the last animated Disney film to be in a single-narrative format until Cinderella.",
+            "category": "Fantasy"
+        },
+    "6":
+        {
+            "title": "Saludos Amigos",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/6/61/Saludos_Amigos_poster.jpg",
+            "year": "1943",
+            "era": "Package Era",
+            "length": "42 minutes",
+            "trailerLink": "https://youtu.be/5tTxKqaPxKM",
+            "trivia": "Saludos Amigos is the first of several package films released by Disney during World War 2. It is the shortest Disney animation feature.",
+            "category": "Hybrid anthology"
+        },
+    "7":
+        {
+            "title": "The Three Caballeros",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/7/7b/Three_caballeros_poster.png",
+            "year": "1945",
+            "era": "Package Era",
+            "length": "72 minutes",
+            "trailerLink": "https://youtu.be/6rbnP5cVZ4w",
+            "trivia": "The Three Caballeros is one of the package films released by Disney and features Donald Duck.",
+            "category": "Hybrid anthology"
+        },
+    "8":
+        {
+            "title": "Make Mine Music",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/2/23/MakeMineMusicPoster.jpeg",
+            "year": "1946",
+            "era": "Package Era",
+            "length": "76 minutes",
+            "trailerLink": "https://youtu.be/n7Vh0aEz86I",
+            "trivia": "Make Mine Music is the third package film released by Disney. Its first segment received mixed reviews.",
+            "category": "Musical anthology"
+        },
+    "9":
+        {
+            "title": "Fun and Fancy Free",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/8/8b/FunAndFancyFreePoster.jpeg",
+            "year": "1947",
+            "era": "Package Era",
+            "length": "73 minutes",
+            "trailerLink": "https://youtu.be/2v986znkZng",
+            "trivia": "Fun and Fancy Free is the fourth package film. It is the last time Walt Disney himself did the voice of Mickey Mouse.",
+            "category": "Musical fantasy"
+        },
+    "10":
+        {
+            "title": "Melody Time",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/2/2c/MelodyTimePosterHD.jpg",
+            "year": "1948",
+            "era": "Package Era",
+            "length": "75 minutes",
+            "trailerLink": "https://youtu.be/BjgrjB_8vdg",
+            "trivia": "Melody Time is the fifth package film. It is set to more popular music and is considered the 'contemporary' version of Fantasia.",
+            "category": "Hybrid musical"
+        },
+    "11":
+        {
+            "title": "The Adventures of Ichabod and Mr. Toad",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/6/60/IchabodMrToadPoster.jpeg",
+            "year": "1949",
+            "era": "Package Era",
+            "length": "68 minutes",
+            "trailerLink": "https://youtu.be/QyCnW-mB-qQ",
+            "trivia": "The Adventures of Ichabod and Mr. Toad is the final package film released by Disney. It only has two segments.",
+            "category": "Anthology"
+        },
+    "12":
+        {
+            "title": "Cinderella",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/4/44/Cinderella-disney-poster.jpg",
+            "year": "1950",
+            "era": "Silver Age",
+            "length": "74 minutes",
+            "trailerLink": "https://youtu.be/7UNEY2MgY_s",
+            "trivia": "Cinderella is the second Disney Princess movie. Its success reinvigorated the Disney company.",
+            "category": "Princess"
+        },
+    "13":
+        {
+            "title": "Alice in Wonderland",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/9/9a/Alice_in_Wonderland_(1951_poster).jpg",
+            "year": "1951",
+            "era": "Silver Age",
+            "length": "75 minutes",
+            "trailerLink": "https://youtu.be/KLIqErnQCuw",
+            "trivia": "Alice in Wonderland is a film based on Lewis Carroll's Alice's Adventures in Wonderland and Through the Looking Glass. It was originally received poorly.",
+            "category": "Musical"
+        },
+    "14":
+        {
+            "title": "Peter Pan",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/8/86/Peter_Pan_1953_Poster.jpg",
+            "year": "1953",
+            "era": "Silver Age",
+            "length": "76 minutes",
+            "trailerLink": "https://youtu.be/L-o0ufCPANo",
+            "trivia": "Peter Pan is an animated movie based on a play by J.M. Barrie. It is the final movie all nine of Disney's Nine Old Men worked on together.",
+            "category": "Adventure"
+        },
+    "15":
+        {
+            "title": "Lady and the Tramp",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/6/62/Lady_and_the_Tramp-_1955.jpg",
+            "year": "1955",
+            "era": "Silver Age",
+            "length": "75 minutes",
+            "trailerLink": "https://youtu.be/oVG-vQNbiJQ",
+            "trivia": "Lady and the Tramp is based on a book by Ward Greene and is the first film distributed by Buena Vista Film Distribution.",
+            "category": "Musical romance"
+        },
+    "16":
+        {
+            "title": "Sleeping Beauty",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/7/72/Original_Sleeping_Beauty_Poster.jpg",
+            "year": "1959",
+            "era": "Silver Age",
+            "length": "75 minutes",
+            "trailerLink": "https://youtu.be/CfsyUyi_FJM",
+            "trivia": "Sleeping Beauty is the last fairy-tale-based animated feature to be produced by Walt Disney.",
+            "category": "Princess"
+        },
+    "17":
+        {
+            "title": "One Hundred and One Dalmatians",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/c/cd/One_Hundred_and_One_Dalmatians_movie_poster.jpg",
+            "year": "1961",
+            "era": "Transition Era",
+            "length": "79 minutes",
+            "trailerLink": "https://youtu.be/rKCEyXoPNEU",
+            "trivia": "One Hundred and One Dalmatians (101 Dalmatians) is the first Disney movie to take place in the time period the movie was made.",
+            "category": "Adventure"
+        },
+    "18":
+        {
+            "title": "The Sword in the Stone",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/2/23/The_Sword_in_the_Stone.jpg",
+            "year": "1963",
+            "era": "Transition Era",
+            "length": "79 minutes",
+            "trailerLink": "https://youtu.be/sAq_zLIzlXI",
+            "trivia": "The Sword in the Stone is based on a book of the same name, and dramatizes Arthurian legends.",
+            "category": "Musical fantasy"
+        },
+    "19":
+        {
+            "title": "The Jungle Book",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/4/49/The_jungle_book_poster.jpg",
+            "year": "1967",
+            "era": "Transition Era",
+            "length": "78 minutes",
+            "trailerLink": "https://youtu.be/LNVTKXIK7q8",
+            "trivia": "The Jungle Book is the last animated film to be approved by Walt Disney himself, who died during its production. It is based on a book of the same name by Rudyard Kipling.",
+            "category": "Musical comedy"
+        },
+    "20":
+        {
+            "title": "The Aristocats",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/3/3f/True_Original_Aristocats_Theatrical_Poster.jpg",
+            "year": "1970",
+            "era": "Bronze Age",
+            "length": "79 minutes",
+            "trailerLink": "https://youtu.be/zDCPJ3FH8hA",
+            "trivia": "The Aristocats is a movie about a family of aristocratic cats who recruit the help of an alley cat to return home. Its title is a pun on the word 'aristocrat'.",
+            "category": "Musical romance"
+        },
+    "21":
+        {
+            "title": "Robin Hood",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/9/91/Robinhood_1973_poster.png",
+            "year": "1973",
+            "era": "Bronze Age",
+            "length": "83 minutes",
+            "trailerLink": "https://youtu.be/hvic3bjZDfs",
+            "trivia": "Robin Hood is the first movie to be produced by Disney's animation studio after Walt Disney's death. While it was popular with audiences, it has a mixed critical response.",
+            "category": "Musical adventure"
+        },
+    "22":
+        {
+            "title": "The Many Adventures of Winnie the Pooh",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/c/c2/The_Many_Adventures_of_Winnie_the_Pooh_poster.jpg",
+            "year": "1977",
+            "era": "Bronze Age",
+            "length": "74 minutes",
+            "trailerLink": "https://youtu.be/oOxyQYTq9ek",
+            "trivia": "The Many Adventures of Winnie the Pooh is based on children's stories written by A.A. Milne and is comprised of three previously released animated shorts.",
+            "category": "Musical anthology"
+        },
+    "23":
+        {
+            "title": "The Rescuers",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/1/1c/The_Rescuers_poster.jpg",
+            "year": "1977",
+            "era": "Bronze Age",
+            "length": "77 minutes",
+            "trailerLink": "https://youtu.be/n1uvsKUdHdM",
+            "trivia": "The Rescuers is based on a series of books by Margery Sharp. It entered development in 1962, but was shelved by Walt Disney. It was revived in the 70s as a project for junior animators.",
+            "category": "Adventure"
+        },
+    "24":
+        {
+            "title": "The Fox and the Hound",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/9/9b/The_Fox_and_the_Hound_poster.jpg",
+            "year": "1981",
+            "era": "Bronze Age",
+            "length": "83 minutes",
+            "trailerLink": "https://youtu.be/TpnWMd8IMnk",
+            "trivia": "The Fox and the Hound is loosely based on a novel of the same name by Daniel P. Mannix. At the time of its release, it was the most expensive animated film.",
+            "category": "Buddy drama"
+        },
+    "25":
+        {
+            "title": "The Black Cauldron",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/0/0a/The_Black_Cauldron_poster.jpg",
+            "year": "1985",
+            "era": "Bronze Age",
+            "length": "80 minutes",
+            "trailerLink": "https://youtu.be/isAtOHLiMH8",
+            "trivia": "The Black Cauldron is based on Welsh mythology and is the first Disney movie to feature computer-generated imagery. It is known for being a box office flop.",
+            "category": "Fantasy"
+        },
+    "26":
+        {
+            "title": "The Great Mouse Detective",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/2/2b/The_Great_Mouse_Detective_poster.jpg",
+            "year": "1986",
+            "era": "Bronze Age",
+            "length": "74 minutes",
+            "trailerLink": "https://youtu.be/N-aEr0kOQNU",
+            "trivia": "The Great Mouse Detective is based on the childrens' book series, Basil of Baker Street by Eve Titus, which is in turn based on Sherlock Holmes.",
+            "category": "Mystery"
+        },
+    "27":
+        {
+            "title": "Oliver & Company",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/2/25/Oliver_and_company.jpg",
+            "year": "1988",
+            "era": "Bronze Age",
+            "length": "73 minutes",
+            "trailerLink": "https://youtu.be/EExIKWcqSAI",
+            "trivia": "Oliver and Company is a twist on the Charles Dickens book, Oliver Twist. It is the first Disney film to feature real-world products.",
+            "category": "Musical adventure"
+        },
+    "28":
+        {
+            "title": "The Little Mermaid",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/1/10/The_Little_Mermaid_poster.jpg",
+            "year": "1989",
+            "era": "Disney Renaissance",
+            "length": "83 minutes",
+            "trailerLink": "https://youtu.be/ZGZX5-PAwR8",
+            "trivia": "The Little Mermaid is based on the Hans Christian Andersen fairy tale of the same name. It is the first film in Disney's animation renaissance.",
+            "category": "Princess"
+        },
+    "29":
+        {
+            "title": "The Rescuers Down Under",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/9/91/The-Rescuers-Down-Under-Movie-Poster.jpg",
+            "year": "1990",
+            "era": "Disney Renaissance",
+            "length": "77 minutes",
+            "trailerLink": "https://youtu.be/DZ1Yv9oIiK4",
+            "trivia": "The Rescuers Down Under is the sequel to the movie The Rescuers and is one of very fer sequel movies made by Disney's animation studio.",
+            "category": "Adventure"
+        },
+    "30":
+        {
+            "title": "Beauty and the Beast",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/0/0b/Beauty_and_the_Beast_theatrical_poster.jpg",
+            "year": "1991",
+            "era": "Disney Renaissance",
+            "length": "84 minutes",
+            "trailerLink": "https://youtu.be/iurbZwxKFUE",
+            "trivia": "Beauty and the Beast is based on a French fairy tale and was the first animated film to be nominated for the Academy Award for Best Picture.",
+            "category": "Princess"
+        },
+    "31":
+        {
+            "title": "Aladdin",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/3/31/Aladdin_poster.jpg",
+            "year": "1992",
+            "era": "Disney Renaissance",
+            "length": "90 minutes",
+            "trailerLink": "https://youtu.be/eTjHiQKJUDY",
+            "trivia": "Aladdin is based on the story Aladdin and the Magic Lamp from The Book of One Thousand and One Nights. It is the only movie with a canonized Disney Princess where the princess is not the main protagonist.",
+            "category": "Musical adventure"
+        },
+    "32":
+        {
+            "title": "The Lion King",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/6/63/The_lion_king_poster.jpg",
+            "year": "1994",
+            "era": "Disney Renaissance",
+            "length": "88 minutes",
+            "trailerLink": "https://youtu.be/lFzVJEksoDY",
+            "trivia": "The Lion King is one of Disney's best known animated movies. It contains elements of the Shakespeare plays Hamlet and Macbeth.",
+            "category": "Musical drama"
+        },
+    "33":
+        {
+            "title": "Pocahontas",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/5/57/Pocahontasposter.jpg",
+            "year": "1995",
+            "era": "Disney Renaissance",
+            "length": "81 minutes",
+            "trailerLink": "https://youtu.be/5iB82S8rHyg",
+            "trivia": "Pocahontas is the first Disney animated feature to be based on a real historical figure. Its historical inaccuracies and racial overtones received polarized responses.",
+            "category": "Princess"
+        },
+    "34":
+        {
+            "title": "The Hunchback of Notre Dame",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/a/a5/The_Hunchback_of_Notre_Dame-_1996.jpg",
+            "year": "1996",
+            "era": "Disney Renaissance",
+            "length": "91 minutes",
+            "trailerLink": "https://youtu.be/O6i3lyx1I_g",
+            "trivia": "The Hunchback of Notre Dame is based on Victor Hugo's novel of the same name, but much of the content is changed to be more family-friendly. Despite this, it's still one of Disney's darker films.",
+            "category": "Musical drama"
+        },
+    "35":
+        {
+            "title": "Hercules",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/7/76/Hercules.png",
+            "year": "1997",
+            "era": "Disney Renaissance",
+            "length": "93 minutes",
+            "trailerLink": "https://youtu.be/vlblxDGoGwo",
+            "trivia": "Hercules is loosely based on Greco-Roman mythology, after being edited to be family friendly. Its theatrical release underperformed expectations.",
+            "category": "Musical fantasy"
+        },
+    "36":
+        {
+            "title": "Mulan",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/a/a5/Mulan.JPG",
+            "year": "1998",
+            "era": "Disney Renaissance",
+            "length": "87 minutes",
+            "trailerLink": "https://youtu.be/HKH7_n425Ss",
+            "trivia": "Mulan is based on the Chinese legend of Hua Mulan and is considered to be the most progressive Disney Princess film.",
+            "category": "Princess"
+        },
+    "37":
+        {
+            "title": "Tarzan",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/d/d2/Tarzan_Second_Poster.jpg",
+            "year": "1999",
+            "era": "Disney Renaissance",
+            "length": "88 minutes",
+            "trailerLink": "https://youtu.be/ie53R2HEZ6g",
+            "trivia": "Tarzan is based on the Tarzan of the Apes novels by Edgar Rice Burroughs and, at time of release, was the most expensive animated movie Disney had released.",
+            "category": "Musical adventure"
+        },
+    "38":
+        {
+            "title": "Fantasia 2000",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/f/f2/Fantasia_2000.jpg",
+            "year": "1999",
+            "era": "Post-Renaissance",
+            "length": "75 minutes",
+            "trailerLink": "https://youtu.be/yOjsvOX4qQA",
+            "trivia": "Lie its predecessor, Fantasia 2000 visualized classical music with live action and animated introductions. Most of the music in this movie is performed by the Chicago Symphony Orchestra.",
+            "category": "Musical anthology"
+        },
+    "39":
+        {
+            "title": "Dinosaur",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/c/ce/Dinosaur.jpg",
+            "year": "2000",
+            "era": "Post-Renaissance",
+            "length": "82 minutes",
+            "trailerLink": "https://youtu.be/vZnBR4SDIEs",
+            "trivia": "Dinosaur is a hybrid computer animated and live action movie, with most of its backgrounds being filmed on location such as Canaima National Park in Venezuela.",
+            "category": "Adventure"
+        },
+    "40":
+        {
+            "title": "The Emperor's New Groove",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/6/69/Grooveposter.jpg",
+            "year": "2000",
+            "era": "Post-Renaissance",
+            "length": "78 minutes",
+            "trailerLink": "https://youtu.be/JX6btxoFhI8",
+            "trivia": "The Emperor's New Groove is considered a 'black sheep' of Disney animation, with nothing dark or realistically sad happening, and no musical numbers.",
+            "category": "Comedy"
+        },
+    "41":
+        {
+            "title": "Atlantis: The Lost Empire",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/d/de/Atlantis_The_Lost_Empire_poster.jpg",
+            "year": "2001",
+            "era": "Post-Renaissance",
+            "length": "95 minutes",
+            "trailerLink": "https://youtu.be/JuWOj27MyMg",
+            "trivia": "Atlantis: The Lost Empire was received with mixed reviews, with some critics enjoying the departure from traditional Disney animation, and others disliking it for similar reasons.",
+            "category": "Adventure"
+        },
+    "42":
+        {
+            "title": "Lilo & Stitch",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/c/c6/LiloandStitchmovieposter.jpg",
+            "year": "2002",
+            "era": "Post-Renaissance",
+            "length": "85 minutes",
+            "trailerLink": "https://youtu.be/9OAC55UWAQs",
+            "trivia": "Lilo and Stitch is one of the few Disney animations to feature a completely original story. It has two somewhat controversial spin-offs which replace the titular character, Lilo.",
+            "category": "Comedy"
+        },
+    "43":
+        {
+            "title": "Treasure Planet",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/6/6e/Treasure_Planet_official_poster.jpg",
+            "year": "2002",
+            "era": "Post-Renaissance",
+            "length": "95 minutes",
+            "trailerLink": "https://youtu.be/DJNT7C61NrE",
+            "trivia": "Treasure Planet is a science-fiction take on the novel, Treasure Island. It was the biggest box office loss for Disney animation, both due to prominent competition and a shift towards computer animation instead of traditional.",
+            "category": "Adventure"
+        },
+    "44":
+        {
+            "title": "Brother Bear",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/8/86/Brother_Bear_Poster.png",
+            "year": "2003",
+            "era": "Post-Renaissance",
+            "length": "85 minutes",
+            "trailerLink": "https://youtu.be/N1yzvz2gKz0",
+            "trivia": "Brother Bear is one of the few original Disney animated stories, and the most recent Disney movie to get a direct-to-video sequel as of 2020.",
+            "category": "Musical fantasy"
+        },
+    "45":
+        {
+            "title": "Home on the Range",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/2/22/Home_On_The_Range.jpg",
+            "year": "2004",
+            "era": "Post-Renaissance",
+            "length": "76 minutes",
+            "trailerLink": "https://youtu.be/ZuTQR6xSbNM",
+            "trivia": "Home on the Range received mixed reviews and was a commercial failure, to the point of being blamed for putting traditional, hand-drawn animation out of business.",
+            "category": "Musical comedy"
+        },
+    "46":
+        {
+            "title": "Chicken Little",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/e/e8/Chicken_Little-_2005.jpg",
+            "year": "2005",
+            "era": "Post-Renaissance",
+            "length": "81 minutes",
+            "trailerLink": "https://youtu.be/gQetyAdnwAo",
+            "trivia": "Chicken Little is Disney's second adaptation of a fable of the same name. It was received with mixed reviews but is still a box-office success.",
+            "category": "Comedy"
+        },
+    "47":
+        {
+            "title": "Meet the Robinsons",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/a/a1/MeetTheRobinsons.jpg",
+            "year": "2007",
+            "era": "Post-Renaissance",
+            "length": "94 minutes",
+            "trailerLink": "https://youtu.be/S396-fnLldk",
+            "trivia": "Meet the Robinsons is one of Disney's earlier computer-animated works and is loosely based on a children's book called A Day with Wilbur Robinson by William Joyce.",
+            "category": "Comedy"
+        },
+    "48":
+        {
+            "title": "Bolt",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/4/48/Bolt-poster-final-fullsize.jpg",
+            "year": "2008",
+            "era": "Post-Renaissance",
+            "length": "96 minutes",
+            "trailerLink": "https://youtu.be/Pj0a7GkMH3w",
+            "trivia": "Bolt is Disney's third computer animated movie. It is the sixth Disney movie in which there is no clear villain.",
+            "category": "Adventure"
+        },
+    "49":
+        {
+            "title": "The Princess and the Frog",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/f/fa/Frog_official_poster_500.jpg",
+            "year": "2009",
+            "era": "Revival Era",
+            "length": "97 minutes",
+            "trailerLink": "https://youtu.be/uQBy6jqbmlU",
+            "trivia": "The Princess and the Frog is the first traditionally animated movie to be released since Home on the Range. It is also the first Disney Princess movie to feature an African-American princess.",
+            "category": "Princess"
+        },
+    "50":
+        {
+            "title": "Tangled",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/2/2f/Tangled_theatrical_poster.jpg",
+            "year": "2010",
+            "era": "Revival Era",
+            "length": "100 minutes",
+            "trailerLink": "https://youtu.be/2f516ZLyC6U",
+            "trivia": "Tangled is an adaptation of the fairytale Rapunzel, and at its launch was the biggest feature film since The Lion King.",
+            "category": "Princess"
+        },
+    "51":
+        {
+            "title": "Winnie the Pooh",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/e/e2/Winnie_the_Pooh_Poster.jpg",
+            "year": "2011",
+            "era": "Revival Era",
+            "length": "63 minutes",
+            "trailerLink": "https://youtu.be/QbFz--GCkOM",
+            "trivia": "Winnie the Pooh was the last 2-D animated Disney film to be produced by the company until 2020. Because of its competition, it was a box office flop, which resulted in Disney shutting down its 2-D animation department.",
+            "category": "Musical comedy"
+        },
+    "52":
+        {
+            "title": "Wreck-It Ralph",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/0/06/Wreck-It_Ralph_poster.jpg",
+            "year": "2012",
+            "era": "Revival Era",
+            "length": "101 minutes",
+            "trailerLink": "https://youtu.be/87E6N7ToCxs",
+            "trivia": "Wreck-It Ralph is one of the highest-grossing Disney films of all time and contains references, including character cameos, from several famous video game franchises, including Sonic and Mario.",
+            "category": "Comedy"
+        },
+    "53":
+        {
+            "title": "Frozen",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/a/a4/Frozen_poster.jpg",
+            "year": "2013",
+            "era": "Revival Era",
+            "length": "102 minutes",
+            "trailerLink": "https://youtu.be/TbQm5doF_Uc",
+            "trivia": "Frozen is an adaptation of the fairy tale The Snow Queen and remained in the top 5 highest-grossing films until its 2019 sequel.",
+            "category": "Princes"
+        },
+    "54":
+        {
+            "title": "Big Hero Six",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/8/89/Big_Hero_6_film_poster.jpg",
+            "year": "2014",
+            "era": "Revival Era",
+            "length": "102 minutes",
+            "trailerLink": "https://youtu.be/z3biFxZIJOQ",
+            "trivia": "Big Hero Six is based on a Marvel comic of the same name. Despite its ties to Marvel, its status as part of the Marvel Cinematic Universe hasn't been confirmed.",
+            "category": "Superhero"
+        },
+    "55":
+        {
+            "title": "Zootopia",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/2/2f/Zootopia_Poster.jpg",
+            "year": "2016",
+            "era": "Revival Era",
+            "length": "108 minutes",
+            "trailerLink": "https://youtu.be/g9lmhBYB11U",
+            "trivia": "Zootopia seems to be one of Disney's few fully original stories. Despite its upbeat attitude and bright coloring, it deals with surpisingly dark themes like discrimination and social stereotypes.",
+            "category": "Comedy"
+        },
+    "56":
+        {
+            "title": "Moana",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/7/76/Moana_official_poster.jpg",
+            "year": "2016",
+            "era": "Revival Era",
+            "length": "107 minutes",
+            "trailerLink": "https://youtu.be/LKFuXETZUsI",
+            "trivia": "Moana is based on Polynesian and South Pacific mythology, and is set in one of the oldest time periods of any Disney movies that feature humans.",
+            "category": "Princess"
+        },
+    "57":
+        {
+            "title": "Ralph Breaks the Internet",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/d/da/Ralph_Breaks_the_Internet.jpeg",
+            "year": "2018",
+            "era": "Revival Era",
+            "length": "112 minutes",
+            "trailerLink": "https://youtu.be/_BcYBFC6zfY",
+            "trivia": "Ralph Breaks the Internet is a sequel to Wreck-It Ralph. Like its predecessor, it contains numerous pop culture references, as well as reference to real-world websites.",
+            "category": "Comedy"
+        },
+    "58":
+        {
+            "title": "Frozen II",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/8/83/Frozen_2_Official_Poster.jpeg",
+            "year": "2019",
+            "era": "Revival Era",
+            "length": "103 minutes",
+            "trailerLink": "https://youtu.be/Zi4LMpSDccc",
+            "trivia": "Frozen II is a direct sequel to Frozen, and features a very different and more mystical storyline and setting than the first. It is currently the highest-grossing Disney animated movie.",
+            "category": "Princess"
+        },
+    "59":
+        {
+            "title": "Raya and the Last Dragon",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/9/93/Raya_and_the_Last_Dragon_Premier_Access.jpg",
+            "year": "2021",
+            "era": "Streaming Era",
+            "length": "107 minutes",
+            "trailerLink": "https://youtu.be/1VIZ89FEjYI",
+            "trivia": "Raya and the Last Dragon is Disney's first original animated feature since Moana. Its development team included a specific Southeast Asea Story Trust in order to pay proper respect to the region the setting is based on.",
+            "category": "Princess"
+        },
+    "60":
+        {
+            "title": "Encanto",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/b/bc/Encanto_poster_2.JPG",
+            "year": "2021",
+            "era": "Streaming Era",
+            "length": "102 minutes",
+            "trailerLink": "https://youtu.be/CaimKeDcudo",
+            "trivia": "Encanto is one of the few animated Disney movies to have been released in the same year as another animated Disney movie. Similarly to Moana, Encanto features several songs written by musician Lin-Manuel Miranda.",
+            "category": "Musical comedy"
+        },
+    "61":
+        {
+            "title": "Strange World",
+            "promoImage": "https://static.wikia.nocookie.net/disney/images/9/91/Strange_World_New_Poster.jpeg",
+            "year": "2022",
+            "era": "Streaming Era",
+            "length": "102 minutes",
+            "trailerLink": "https://youtu.be/bKh2G73gCCs",
+            "trivia": "The most recent Disney animated movie, Strange World is another original story, with a unique setting of a highly agricultural far-future world. It is the first animated Disney movie to be a financial failure since 2011's Winnie the Pooh.",
+            "category": "Adventure"
+        }
+}
