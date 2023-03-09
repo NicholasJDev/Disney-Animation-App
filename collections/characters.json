@@ -1,74 +1,74 @@
 {
     "character1":{
-        "name": "add",
-        "role": "add",
-        "description": "add",
-        "trivia": "add"
+        "name": "Snow White",
+        "role": "Protagonist",
+        "description": "A 14 year old girl and the stepdaughter of the Evil Queen. She seems to have a sweet and caring personality, but she has a sassy side that is often overlooked.",
+        "trivia": "Snow White is the third animated character to have a star on the Hollywood Walk of Fame, and is the only Disney Princess to have one."
     },"character2":{
-        "name": "add",
-        "role": "add",
-        "description": "add",
-        "trivia": "add"
+        "name": "Evil Queen",
+        "role": "Antagonist",
+        "description": "Considered one of the most iconic Disney villains. She is ruthless, jealous, and extremely vain. Upon her transformation into an old witch, she becomes more maniacal.",
+        "trivia": "Early promotional material gave her the name Queen Grimhilde."
     },"character3":{
-        "name": "add",
-        "role": "add",
-        "description": "add",
-        "trivia": "add"
+        "name": "Pinocchio",
+        "role": "Protagonist",
+        "description": "A wooden puppet created by the woodcarver Geppetto and imbued with life by the Blue Fairy. He behaves as most young children do, but learns to be more mature by the end of the movie.",
+        "trivia": "Pinocchio dying and coming back is the first instance of the 'Disney Death' trope, in which a character who is presumed dead either comes back or is revealed to never have been dead."
     },"character4":{
-        "name": "add",
-        "role": "add",
-        "description": "add",
-        "trivia": "add"
+        "name": "Stromboli",
+        "role": "Antagonist",
+        "description": "A bald puppeteer who only seems to love money, no matter the cost. He presents himself as jolly and good natured, but has a dangerously quick fuse.",
+        "trivia": "Stromboli could be considered the evil counterpart of Geppetto."
     },"character5":{
-        "name": "add",
-        "role": "add",
-        "description": "add",
-        "trivia": "add"
+        "name": "Honest John",
+        "role": "Antagonist",
+        "description": "Also known as J. Worthington Foulfellow, Honest John is an anthropomorphic fox who regularly swindles people out of money. He is persuasive and sly; the hallmark characteristics of foxes.",
+        "trivia": "Honest John and his accomplice, Gideon, are the only villains in the film to appear, disappear, and return in later scenes."
     },"character6":{
-        "name": "add",
-        "role": "add",
-        "description": "add",
-        "trivia": "add"
+        "name": "Dumbo",
+        "role": "Protagonist",
+        "description": "Officially named Jumbo Junior, Dumbo is a baby elephant with very large ears. He has the personality of a small child, being playful and innocent.",
+        "trivia": "Dumbo is the only titular character in any Disney film to have no speaking lines."
     }, "character7":{
-        "name": "add",
-        "role": "add",
-        "description": "add",
-        "trivia": "add"
+        "name": "Ringmaster",
+        "role": "Antagonist",
+        "description": "The head of the circus Dumbo belongs to. He appears to be callous and miserly, treating his animals poorly and underpaying his workers. While he is the movie's antagonist, he isn't outwardly malicious.",
+        "trivia": "The Ringmaster's voice actor worked as a circus clown at one point in his life."
     },"character8":{
-        "name": "add",
-        "role": "add",
-        "description": "add",
-        "trivia": "add"
+        "name": "Bambi",
+        "role": "Protagonist",
+        "description": "A young deer who grows up over the course of the movie. He appears to be curious, shy, and naive, even when he is seen as an adult. It is revealed that he is the son of the most respected deer in the forest.",
+        "trivia": "Bambi's movie has no named antagonist, though humans are shown as the main culprit of several events in the movie."
     },"character9":{
-        "name": "add",
-        "role": "add",
-        "description": "add",
-        "trivia": "add"
+        "name": "Thumpber",
+        "role": "Protagonist",
+        "description": "Bambi's close rabbit friend. He is loud and mischevious, but tries to advise his friends when he can.",
+        "trivia": "Thumper was originally meant to have a smaller role, but was given a larger one when some of the writers heard his voice actor."
     },"character10":{
-        "name": "add",
-        "role": "add",
-        "description": "add",
-        "trivia": "add"
+        "name": "Flower",
+        "role": "Protagonist",
+        "description": "A coy and soft-spoken skunk and another good friend of Bambi. He is friendly and is shown as having a consistently positive outlook on life.",
+        "trivia": "Whether Flower's name is his real, given name or not is unknown."
     },"character11":{
-        "name": "add",
-        "role": "add",
-        "description": "add",
-        "trivia": "add"
+        "name": "Cinderella",
+        "role": "Protagonist",
+        "description": "A kind-hearted and loving young woman, despite her toxic and abusive step-family. Though she is soft-spoken and gentle, she also has a strong will and a sharp wit.",
+        "trivia": "The scene in which Cinderella's torn dress transforms into a gown is allegedly Walt Disney's all-time favorite piece of animation."
     },"character12":{
-        "name": "add",
-        "role": "add",
-        "description": "add",
-        "trivia": "add"
+        "name": "Drizella",
+        "role": "Antagonist",
+        "description": "A vain and selfish young woman and one of Cinderella's step-sisters. Not much seems to be known about her interests, aside from the possibility of being as greedy as her mother.",
+        "trivia": "Drizella's hair color hasn't been consistent over future appearances."
     },"character13":{
-        "name": "add",
-        "role": "add",
-        "description": "add",
-        "trivia": "add"
+        "name": "Anastasia",
+        "role": "Antagonist",
+        "description": "A jealous and spoiled young woman, and one of Cinderella's step-sisters. In her first appearance, she seems to have identical personality traits to her sister, but in further appearances, she seems to change her ways.",
+        "trivia": "In a future appearance (Cinderella III), she is shown to be very allergic to roses."
     },"character14":{
-        "name": "add",
-        "role": "add",
-        "description": "add",
-        "trivia": "add"
+        "name": "Wicked Stepmother",
+        "role": "Antagonist",
+        "description": "Officially named Lady Tremaine, the wicked stepmother is cold and cruel. While she is markedly cruel to Cinderella, she doesn't appear to care that much more for her biological daughters.",
+        "trivia": "Lady Tremaine is one of only three main antagonists in a Disney cartoon who is confirmed to be a biological parent."
     },"character15":{
         "name": "add",
         "role": "add",
